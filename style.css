@@ -557,6 +557,10 @@ header.sticky ul li a
 		height: 100%;
 		width: 100%;
 	}
+	.img {
+		height: 100%;
+		width: 100%;
+	}
 	.w50
 	{
 		margin-bottom: 20px;
